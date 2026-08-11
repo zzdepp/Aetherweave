@@ -1,0 +1,8 @@
+{
+  "name": "Aetherweave",
+  "description": "A global community discussion and forum platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
